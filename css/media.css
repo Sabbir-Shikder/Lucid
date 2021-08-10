@@ -1,0 +1,1459 @@
+@media (min-width: 1400px) and (max-width: 1899px){
+    .banner-content h5 {
+        margin-top: 0px !important;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399px){
+    /* banner */
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+    }
+    .navbar-light .navbar-brand img {
+        width: 80px;
+    }
+    .btn-features, .btn-download {
+        padding: 12px;
+        font-size: 14px;
+    }
+    .banner-content p {
+        font-size: 18px;
+        line-height: 35px;
+        margin-bottom: 12px !important;
+    }
+    .banner-content h1 {
+        font-size: 47px;
+    }
+    .banner-content h5 {
+        letter-spacing: 1px;
+        margin-top: 0;
+    }
+    .banner-content {
+        min-height: 70vh;
+    }
+    .phone img {
+        width: 75%;
+    }
+    /* features  */
+    .features_section {
+        padding-bottom: 80px;
+        padding-top: 0 !important;
+    }
+    /* device and details  */
+    .device_and_details {
+        margin: 0 !important;
+    }
+    .details_one {
+        margin: auto;
+    }
+    .phone_2 img {
+        width: 82%;
+    }
+    /* easy  customize */
+    .details_two {
+        margin-top: 10%;
+    }
+    /* testimonails */
+    .client {
+        width: 47%;
+    }
+    .client_des h5 {
+        font-size: 25px;
+    }
+    .client_des h2 {
+        font-size: 15px;
+    }
+    .client_img {
+        width: 70px;
+    }
+    .testimonials {
+        min-height: 72vh;
+    }
+    .testimonials .col-md-12 {
+        padding: 0 !important;
+        margin-bottom: 30px !important;
+    }
+    .testimonials p {
+        font-size: 25px;
+        margin-bottom: 7%;
+    }
+    .owl-dots {
+        margin-top: 8%;    
+    }
+    /* theme get  */
+    .text_part h1 {
+        font-size: 29px;
+    }
+    .theme_get {
+        background-color: #15141a;
+        padding: 50px 0;
+    }
+    /* pricing table  */
+    .pricing_plans .col-md-12{
+        margin: 0 !important;
+    }
+    .pricing_plans {
+        margin-bottom: 0 !important;
+        margin: 0 !important;
+    }
+    .pricing_table {
+        margin-bottom: 40px;
+    }
+    .text {
+        padding: 15px 0 !important;
+    }
+    .text h1 {
+        font-size: 25px;
+        margin: 0;
+    }
+    .amount h2 {
+        font-size: 60px;
+    }
+    .amount h2 sup {
+        font-size: 31px;
+    }
+    .amount h5 {
+        font-size: 16px;
+    }
+    .amount {
+        padding: 20px !important;
+    }
+    .description p {
+        font-size: 18px;
+        padding: 0 10px;
+    }
+    .order_button .btn-features{
+        font-size: 14px !important;
+        padding: 12px !important;
+    }
+    .order_button{
+        padding-bottom: 40px !important;
+    }
+    /* contact */
+    .contact .col-md-12{
+        margin: 0 !important;
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+    .contact {
+        padding-bottom: 15%;
+    }
+    .contact .col-md-4:nth-child(3){
+        margin: 0 !important;
+    }
+    .contact_form {
+        width: 60%;
+    }
+    /* footer  */
+    .footer_content h5 a {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    /* banner */
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+    }
+    .navbar-light .navbar-brand img {
+        width: 80px;
+    }
+    .btn-features, .btn-download {
+        margin-bottom: 25px !important;
+        padding: 12px;
+        font-size: 14px;
+        margin-top: 30px !important;
+    }
+    .banner-content p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-bottom: 12px !important;
+    }
+    .banner-content h1 {
+        font-size: 47px;
+    }
+    .banner-content h5 {
+        letter-spacing: 1px;
+        margin-top: 0;
+    }
+    .banner-content {
+        min-height: 70vh;
+    }
+    .phone img {
+        width: 88%;
+    }
+    /* features  */
+    .features_section {
+        padding-bottom: 60px;
+        padding-top: 10px !important;
+    }
+    .features_item {
+        margin-top: 0 !important;
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+    /* device and details  */
+    .details_one ul li {
+        line-height: 33px;
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .phone_2 {
+        margin: auto 0;
+    }
+    .details_one p {
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+    .details_one {
+        margin: auto;
+    }
+    .device_and_details {
+        margin: 0 !important;
+    }
+    .details_one span {
+        margin: 30px 0;
+    }
+    /* easy  customize */
+    .details_two h1 {
+        font-size: 36px;
+    }
+    .details_two {
+        margin-top: 9%;
+    }
+    .customize {
+        min-height: 55vh;
+    }
+    .details_two span {
+        margin: 30px 0;
+    }
+    .details_two p {
+        font-size: 18px;
+    }
+    /* testimonails */
+    .client {
+        width: 57%;
+    }
+    .client_des h5 {
+        font-size: 25px;
+    }
+    .client_des h2 {
+        font-size: 15px;
+    }
+    .client_img {
+        width: 70px;
+    }
+    .testimonials {
+        min-height: 72vh;
+    }
+    .testimonials .col-md-12 {
+        padding: 0 !important;
+        margin-bottom: 20px !important;
+    }
+    .testimonials p {
+        font-size: 20px;
+        margin-bottom: 10%;
+    }
+    /* theme get  */
+    .theme_get {
+        padding: 30px 0;
+    }
+    .button_part{
+        text-align: center !important;
+    }
+    .text_part h1 {
+        text-align: center;
+        font-size: 37px;
+        margin-bottom: 15px;
+    }
+    /* pricing table  */
+    .pricing_plans .col-md-12{
+        margin: 0 !important;
+        padding-top: 50px !important;
+        padding-bottom: 25px !important;
+    }
+    .pricing_table {
+        margin-top: 30px;
+    }
+    .description p {
+        padding: 0 25px;
+    }
+    .order_button .btn-features {
+        margin: 0 !important;
+    }
+    /* contact */
+    .contact .col-md-12{
+        margin: 0 !important;
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+    .contact {
+        padding-bottom: 18%;
+    }
+    .contact .col-md-4:nth-child(3){
+        margin: 0 !important;
+    }
+    .contact_form {
+        width: 70%;
+    }
+    /* footer  */
+    .footer_content h5 a {
+        font-size: 22px;
+    }
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991px){
+    /* banner */
+    .navbar-light .navbar-brand img {
+        width: 80px;
+    }
+    .banner-content {
+        min-height: 70vh;
+    }
+    .banner-content h1 {
+        font-size: 49px;
+    }
+    .banner-content p {
+        font-size: 17px;
+        line-height: 26px;
+        margin-bottom: 0 !important;
+    }
+    .banner-content h5 {
+        font-size: 16px;
+        margin-top: 0;
+    }
+    .btn-features, .btn-download {
+        margin-bottom: 25px !important;
+        padding: 12px;
+        font-size: 14px;
+        margin-top: 30px !important;
+    }
+    .btn-features{
+        margin-left: 10px !important;
+    }
+    .phone {
+        width: 63%;
+        display: none;
+    }
+    .iphone{
+        display: inherit;
+    }
+    /* features  */
+    .features_section {
+        padding-bottom: 40px;
+        padding-top: 10px !important;
+    }
+    .features_item {
+        margin-top: 0 !important;
+    }
+
+    /* device and details  */
+    .details_one ul li {
+        line-height: 33px;
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .phone_2 {
+        margin: auto 0;
+    }
+    .details_one p {
+        margin-bottom: 15px;
+        font-size: 17px;
+    }
+    .details_one {
+        margin-top: 0;
+    }
+    .device_and_details {
+        margin: 0 !important;
+    }
+    .details_one span {
+        margin: 20px 0;
+    }
+    /* easy  customize */
+    .phone_3 {
+        margin: auto;
+    }
+    .details_two {
+        margin-top: 7%;
+    }
+    .customize {
+        min-height: 55vh;
+    }
+    .details_two span {
+        margin: 20px 0;
+    }
+    .details_two p {
+        font-size: 17px;
+    }
+    /* testimonails */
+    .client {
+        width: 72%;
+    }
+    .client_des h5 {
+        font-size: 25px;
+    }
+    .client_des h2 {
+        font-size: 15px;
+    }
+    .client_img {
+        width: 60px;
+    }
+    .testimonials {
+        min-height: 72vh;
+    }
+    .testimonials .col-md-12 {
+        padding: 0 !important;
+    }
+    .testimonials p {
+        font-size: 20px;
+        margin-bottom: 10%;
+    }
+    /* theme get  */
+    .theme_get {
+        padding: 30px 0;
+    }
+    .button_part{
+        text-align: center !important;
+    }
+    .text_part h1 {
+        text-align: center;
+        font-size: 37px;
+    }
+    /* pricing table  */
+    .pricing_plans .col-md-12{
+        margin: 0 !important;
+        padding-top: 50px !important;
+        padding-bottom: 25px !important;
+    }
+    .pricing_table {
+        margin-top: 30px;
+    }
+    .description p {
+        padding: 0 25px;
+    }
+    .order_button .btn-features {
+        margin: 0 !important;
+    }
+    /* contact */
+    .contact .col-md-12{
+        margin: 0 !important;
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+    .contact {
+        padding-bottom: 18%;
+    }
+    .contact .col-md-4:nth-child(3){
+        margin: 0 !important;
+    }
+    .contact_form {
+        width: 80%;
+    }
+    /* footer  */
+    .footer_content h5 a {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+    /* banner */
+    .navbar-light .navbar-nav .nav-link {
+        margin-bottom: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        display: inline-block;
+    }
+    .phone{
+        display: none;
+    }
+    .iphone{
+        display: inherit;
+    }
+    .iphone img{
+        margin: auto;
+        width: 70%;
+    }
+    .banner-content {
+        flex-direction: column-reverse;
+        text-align: center;
+        padding: 30px 0 20px;
+    }
+    .banner-content p {
+        margin: 30px 0 20px !important;
+    }
+    .btn-download, .btn-features {
+        margin-top: 10px !important;
+        margin-bottom: 40px;
+    }
+    /* features */
+    .features_section {
+        padding: 0 !important;
+        padding-bottom: 40px !important;
+    }
+    .features_item {
+        margin: 0 !important;
+    }
+    /* device and details  */
+    .device_and_details{
+        background-color: #fff;
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        padding-bottom: 30px !important;
+    }
+    .phone_2 {
+        text-align: center;
+    }
+    .phone_2 img{
+        width: 80%;
+        margin: auto;
+    }
+    /* easily customize */
+    .details_two {
+        margin-top: 10%;
+    }
+    .phone_3 {
+        margin-top: 0%;
+    }
+    /* testimonial */
+    .testimonials {
+        min-height: 70vh;
+    }
+    .testimonials .col-md-12 {
+        padding: 0 !important;
+    }
+    .testimonials p {
+        font-size: 18px;
+        margin-bottom: 50px;
+    }
+    .client_des h2 {
+        font-size: 13px;
+    }
+    .client {
+        width: 87%;
+    }
+    .client_img {
+        width: 60px;
+    }
+    /* theme getting part  */
+    .theme_get {
+        padding: 40px 0;
+    }
+    .text_part h1 {
+        font-size: 27px;
+        margin-bottom: 20px;
+    }
+    .button_part{
+        text-align: center !important;
+    }
+    .btn-features, .btn-download {
+        margin-bottom: 25px !important;
+        padding: 12px;
+        font-size: 14px;
+    }
+    /* pricing  */
+    .pricing_plans {
+        padding: 10px 0px !important;
+    }
+    .pricing_plans .col-md-12{
+        margin: 0 !important;
+        padding-top: 50px !important;
+        padding-bottom: 30px !important;
+    }
+    .pricing_table {
+        margin-top: 30px;
+    }
+    .text h1 {
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+    .amount h2 {
+        font-size: 70px;
+    }
+    .amount h2 sup {
+        font-size: 35px;
+    }
+    .amount h5 {
+        margin: 0;
+    }
+    .description p {
+        font-size: 18px;
+        padding: 0px 10px;
+    }
+    .order_button {
+        padding: 10px 0 35px!important;
+    }
+    .order_button .btn-features {
+        padding: 12px 12px;
+        font-size: 14px;
+        margin: 0 !important;
+    }
+    /* contact */
+    .contact {
+        padding-bottom: 35%;
+    }
+    .contact .col-md-12{
+        margin: 0 !important;
+        padding-top: 50px !important;
+        padding-bottom: 30px !important;
+    }
+    .contact_form {
+        width: 80%;
+    }
+    /* footer  */
+    .footer_content h5 a {
+        font-size: 20px;
+    }
+    form input[type="submit"]{
+        font-size: 14px;
+        padding: 13px 20px!important;
+    }
+}
+
+@media (min-width: 426px) and (max-width: 575px) { 
+    /* navbar button starting */
+    .navbar-light .navbar-nav .nav-item{
+        padding-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        display: inline-block;
+    }
+    .navbar-light .navbar-brand img {
+        width:70px;
+    }
+
+    /* banner part starting */
+    .phone{
+        display: none;
+    }
+    .banner-content {
+        min-height: 75vh;
+        text-align: center;
+        align-items: unset;
+    }
+    .banner-content h5 {
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .banner-content h1 {
+        font-size: 50px !important;
+    }
+    .heading span{
+        margin: 20px 0 !important;
+    }
+    .banner-content p {
+        margin: 35px 0 !important;
+        font-size: 18px;
+    }
+    .btn-download, .btn-features{
+        padding: 15px !important;
+        font-size: 14px;
+        margin-top: 30px !important;
+    }
+    /* features section part starting */
+    .features_item {
+        margin: 0 !important;
+        padding: 0px 50px;
+        padding-top: 15px !important;
+    }
+    .heading h5{
+        font-size: 16px;
+    }
+    .features_section {
+        padding-bottom: 40px;
+        padding-top: 0 !important;
+    }
+
+    /* device and details_one part starting */
+    .device_and_details {
+        padding: 30px 20px !important;
+        margin: 0 !important;
+    }
+    .details_one h5 {
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .details_one span{
+        margin: 20px 0 !important;
+    }
+    .details_one p {
+        margin-bottom: 15px;
+    }
+    .phone_2 {
+        text-align: center;
+    }
+    .phone_2 img {
+        width: 80%;
+    }
+    /* testimonials part */
+    .heading .col-md-12{
+        margin: 0!important;
+        padding-bottom: 0 !important;
+    }
+    .testimonials {
+        min-height:70vh;
+    }
+    .client {
+        width: 70%;
+        margin-top: 40px;
+        justify-content: space-around;
+        margin: auto;
+    }
+    .client_des {
+        margin-left: 10px;
+    }
+    .client_img {
+        width: 60px;
+    }
+    .owl-dots {
+        margin-top: 7%;
+        margin-bottom: 0 !important;
+    }
+    /* THEME GET PART  */
+    .theme_get .button_part{
+        text-align: center  !important;
+        margin: auto;
+    }
+    .theme_get .button_part .btn-download{
+        margin-right: 20px;
+    }
+    .theme_get{
+        text-align: center;
+    }
+    /* easily customize part */
+    .details_two {
+        margin-top: 8%;
+    }
+    .details_two h5 {
+        font-weight: 700;
+        font-size: 14px;
+    }
+    .details_two span{
+        margin: 20px 0 !important;
+    }
+    .phone_3 {
+        margin: 5% 0;
+    }
+    .customize {
+        padding: 0 20px;
+    }
+    /* testimonials part */
+    .testimonials {
+        min-height: 80vh;
+    }
+    .heading .col-md-12{
+        margin: 0!important;
+        padding-bottom: 10px !important;
+    }
+    .testimonials p {
+        font-size: 30px;
+        text-align: center;
+    }
+    .testimonials .heading h5 {
+        letter-spacing: 1px;
+    }
+    .client {
+        width: 52%;
+        margin-top: 40px;
+        justify-content: space-around;
+    }
+    .client_img {
+        width: 60px;
+    }
+    .client_des h2 {
+        font-size: 17px;
+    }
+    .client_des h5 {
+        font-size: 25px;
+    }
+    /* FOOTER PART  */
+    .footer_content ul li i {
+        font-size: 23px;
+    }
+    .footer_content h5 a {
+        font-size: 20px;
+    }
+    /* CONTACT FORM PART  */
+    form input[type="submit"]{
+        font-size: 14px;
+        padding: 13px 20px!important;
+    }
+    .contact_form {
+        padding: 25px;
+        width: 75%;
+    }
+    form input[type="submit"] {
+        padding: 15px 30px !important;
+    }
+    .contact {
+        padding-bottom: 50%;
+    }
+    /* pricing part  */
+    .pricing_plans {
+        padding-bottom: 0 !important;
+    }
+    .pricing_table {
+        margin: 0 90px;
+        margin-bottom: 20px !important;
+        margin-top: 20px !important;
+    }
+    .text {
+        padding: 15px 0 !important;
+    }
+    .text h1 {
+        font-size: 25px;
+        margin: 0;
+    }
+    .amount h2 {
+        font-size: 60px;
+    }
+    .amount h2 sup {
+        font-size: 31px;
+    }
+    .amount h5 {
+        font-size: 16px;
+    }
+    .amount {
+        padding: 20px !important;
+    }
+    .description p {
+        font-size: 18px;
+        padding: 0 10px;
+    }
+    .order_button .btn-features{
+        margin: 0 !important;
+        font-size: 14px !important;
+        padding: 16px 30px !important;
+    }
+    .order_button{
+        padding-bottom: 50px !important;
+        padding-top: 30px !important;
+    }
+    /* CONTACT PART  */
+    .contact_way i{
+
+        font-size: 30px;
+
+    }
+    .contact_way h5{
+                
+        font-size: 18px;
+    }
+
+}
+
+@media (min-width: 376px) and (max-width: 425px){
+    .navbar-light .navbar-nav .nav-item{
+        padding-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        display: inline-block;
+    }
+    .navbar-light .navbar-brand img {
+        width:70px;
+    }
+
+    /* banner part starting */
+    .pricing_plans {
+        padding-bottom: 0 !important;
+    }
+    .phone{
+        display: none;
+    }
+    .banner-content {
+        min-height: 71vh;
+        text-align: center;
+        align-items: unset;
+        padding-top: 10%;
+    }
+    .banner-content h5 {
+        font-size: 14px;
+        margin: 0;
+    }
+    .banner-content h1 {
+        font-size: 40px !important;
+    }
+    .heading span{
+        margin: 20px 0 !important;
+    }
+    .banner-content p {
+        margin: 35px 0 !important;
+        font-size: 16px;
+    }
+    .btn-download, .btn-features{
+        padding: 15px !important;
+        font-size: 14px;
+        margin-top: 30px !important;
+    }
+    /* features section part starting */
+    .features_item {
+        margin: 0 !important;
+        padding: 0 50px;
+        padding-top: 20px !important;
+    }
+    .heading h5{
+        font-size: 16px;
+    }
+    .features_section {
+        padding-bottom: 40px;
+        padding-top: 0 !important;
+    }
+
+    /* device and details_one part starting */
+    .device_and_details {
+        padding: 0 10px !important;
+        margin: 15px 0 !important;
+    }
+    .details_one h5 {
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .details_one span{
+        margin: 20px 0 !important;
+    }
+    .details_one p {
+        margin-bottom: 15px;
+    }
+    /* easily customizable part starting */
+    .details_two h5 {
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .details_two span{
+        margin: 20px 0 !important;
+    }
+    .customize {
+        padding: 0 10px;
+    }
+    .phone_3 {
+        margin: 5% 0;
+    }
+    /* THEME GET PART  */
+    .theme_get {
+        text-align: center;
+    }
+    .theme_get .button_part{
+        text-align: center  !important;
+        margin: auto;
+    }
+    .theme_get .button_part .btn-download{
+        margin-right: 20px;
+    }
+
+    /* testimonials part */
+    .testimonials {
+        min-height: 73vh;
+    }
+    .heading .col-md-12{
+        margin: 0!important;
+        padding-bottom: 10px !important;
+    }
+    .testimonials p {
+        font-size: 25px;
+        text-align: center;
+    }
+    .testimonials .heading h5 {
+        letter-spacing: 1px;
+    }
+    .client {
+        width: 70%;
+        margin-top: 40px;
+        justify-content: space-around;
+        margin: auto;
+    }
+    .client_img {
+        width: 60px;
+    }
+    .client_des h2 {
+        font-size: 17px;
+    }
+    .client_des h5 {
+        font-size: 25px;
+    }
+    /* FOOTER PART  */
+    .footer_content ul li i {
+        font-size: 23px;
+    }
+    .footer_content h5 a {
+        font-size: 20px;
+    }
+    /* CONTACT FORM PART  */
+    .contact_form {
+        padding: 25px;
+        width: 75%;
+    }
+    form input[type="submit"] {
+        padding: 15px 30px !important;
+    }
+    .contact {
+        padding-bottom: 60%;
+    }
+    /* pricing part  */
+    .pricing_table {
+        margin: 0 20px;
+        margin-bottom: 20px !important;
+        margin-top: 20px !important;
+        
+    }
+    .text {
+        padding: 15px 0 !important;
+    }
+    .text h1 {
+        font-size: 25px;
+        margin: 0;
+    }
+    .amount h2 {
+        font-size: 60px;
+    }
+    .amount h2 sup {
+        font-size: 31px;
+    }
+    .amount h5 {
+        font-size: 16px;
+    }
+    .amount {
+        padding: 20px !important;
+    }
+    .description p {
+        font-size: 18px;
+        padding: 0 10px;
+    }
+    .order_button .btn-features{
+        margin: 0 !important;
+        font-size: 14px !important;
+        padding: 16px 30px !important;
+    }
+    .order_button{
+        padding-bottom: 50px !important;
+        padding-top: 30px !important;
+    }
+    /* CONTACT PART  */
+    .contact_way i{
+
+        font-size: 30px;
+
+    }
+    .contact_way h5{
+                
+        font-size: 18px;
+    }
+    form input[type="submit"]{
+        font-size: 14px;
+        padding: 13px 20px!important;
+    }
+}
+@media (min-width: 376px) and (max-width: 421px){
+    /* THEME GET PART  */
+    .btn-download, .btn-features{
+        display: block;
+        margin: 0 !important;
+        margin: 30px 0 !important;
+    }
+    .theme_get {
+        text-align: center;
+    }
+    .theme_get .button_part{ 
+        text-align: center;
+        display: inline-block;
+    }
+    .theme_get .button_part .btn-download{
+        display:block;
+
+    }
+    .theme_get .button_part .btn-features{
+        display:block;
+        margin: 0 !important;
+        margin-top: 40px !important;
+    }
+    .features_section {
+        padding: 0 !important;
+        margin: 40px !important;
+    }
+    .features_item {
+        margin: 0 !important;
+        padding: 0 20px;
+        padding-top: 30px !important;
+    }
+    .details_two {
+        margin-top: 10%;
+    }
+    .order_button .btn-features {
+        margin:0 70px!important;
+    }
+}
+@media (min-width: 0) and (max-width: 375px){
+/* banner part */
+    .pricing_plans {
+        padding-bottom: 0 !important;
+    }
+    .device_and_details {
+        padding: 0 !important;
+        margin-bottom: 20px !important;
+    }
+    .phone{
+        display: none;
+    }
+    .banner-content {
+        min-height: 80vh;
+        text-align: center;
+    }
+    .banner-content h5 {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .banner-content h1 {
+        font-size: 40px !important;
+    }
+    .btn-download, .btn-features{
+        margin: 0 !important;
+        margin: 30px 0 !important;
+        display: block;
+    }
+    .heading span{
+        margin: 20px 0 !important;
+    }
+/* features part */
+    .heading h5{
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .features_item {
+        padding: 0 !important;
+        margin-top: 30px !important;
+    }
+    .features_item h5 {
+        font-size: 20px;
+    }
+    .features_item p {
+        font-size: 16px;
+        padding: 0 20px;
+    }
+    .features_item .icon_box {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    /* device and details part */
+    .details_one h5 {
+        font-weight: 700;
+        font-size: 14px;
+    }
+    .details_one span{
+        margin: 20px 0 !important;
+    }
+    .details_one p {
+        margin-bottom: 15px;
+    }
+    /* easily customize part */
+    .details_two h5 {
+        font-weight: 700;
+        font-size: 14px;
+    }
+    .details_two span{
+        margin: 20px 0 !important;
+    }
+    .phone_3 {
+        margin: 5% 0;
+    }
+    /* testimonials part */
+    .testimonials {
+        min-height:65vh;
+    }
+    .heading .col-md-12{
+        margin: 0!important;
+        padding-bottom: 10px !important;
+    }
+    .testimonials p {
+        font-size: 20px;
+        text-align: center;
+    }
+    .testimonials .heading h5 {
+        letter-spacing: 1px;
+    }
+    .client {
+        width: 100%;
+        margin-top: 40px;
+        justify-content: space-around;
+    }
+    .client_img {
+        width: 60px;
+    }
+    .client_des h2 {
+        font-size: 17px;
+    }
+    .client_des h5 {
+        font-size: 25px;
+    }
+    /* download btn  */
+    .text_part h1 {
+        text-align: center;
+    }
+    /* pricing part  */
+    .pricing_plans {
+        margin-bottom: 0 !important;
+        margin: 0 15px !important;
+    }
+    .pricing_table {
+        margin-bottom: 40px;
+    }
+    .text {
+        padding: 10px 0 !important;
+    }
+    .text h1 {
+        font-size: 25px;
+        margin: 0;
+    }
+    .amount h2 {
+        font-size: 60px;
+    }
+    .amount h2 sup {
+        font-size: 31px;
+    }
+    .amount h5 {
+        font-size: 16px;
+    }
+    .amount {
+        padding: 20px !important;
+    }
+    .description p {
+        font-size: 18px;
+        padding: 0 10px;
+    }
+    .order_button .btn-features{
+        margin: 0 !important;
+        margin: 0 70px !important;
+        font-size: 14px !important;
+    }
+    .order_button{
+        padding-bottom: 40px !important;
+    }
+    /* CONTACT PART  */
+    .contact_way {
+        margin-bottom: 20px !important;
+    }
+    .contact_way i {
+        font-size: 40px;
+    }
+    .contact_way h5 {
+        font-size: 18px;
+    }
+    .heading span {
+         margin: 20px 0;
+    }
+    /* MAP PART  */
+    .map iframe{
+        height:700px;
+     }
+    /* CONTACT FORM PART  */
+    .contact_form {
+        padding: 20px !important;
+        width: 90%;
+    }
+    .contact {
+        padding-bottom: 80%;
+    }
+    .order_button .btn-features {
+        padding: 12px 12px;
+        font-size: 14px;
+        margin: 0 80px !important;
+    }
+    
+    /* FOOTER PART  */
+    .footer_content ul li i {
+        font-size: 18px;
+    }
+    .footer_content h5 a {
+        font-size: 20px;
+    }
+    form input[type="submit"]{
+        font-size: 14px;
+        padding: 13px 20px!important;
+    }
+    .footer_content h5 a{
+        font-size: 14px;
+    }
+    .features_section {
+        padding-top: 0 !important;
+        padding-bottom: 25px;
+    }
+    
+}
+
+@media (min-width: 0) and (max-width: 320px){
+    .navbar-light .navbar-nav .nav-item{
+        padding-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        display: inline-block;
+    }
+    .navbar-light .navbar-brand img {
+        width:70px;
+    }
+    /* banner part  */
+    .banner-content {
+        text-align: center;
+    }
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    .banner-content p {
+        padding: 0px !important;
+        margin-bottom: 20px !IMPORTANT;
+        font-size: 16px;
+    }
+    .btn-download, .btn-features{
+        display: block;
+        margin: 0 !important;
+        margin: 30px 0 !important;
+    }
+    /* features part  */
+    .heading h5 {
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .features_item {
+        margin-top: 20px !important;
+    }
+    .features_item {
+        margin-top: 0px !important;
+        padding: 5px !important;
+        padding-bottom: 25px !important;
+    }
+    .features_item h5 {
+        font-size: 20px;
+    }
+    .features_item p {
+        font-size: 16px;
+        padding: 0 10px;
+    }
+    .features_item .icon_box {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .features_section {
+        padding-bottom: 15px;
+        padding-top: 0 !important;
+    }
+    /* device and details part  */
+    .details_one {
+        padding: 0px 25px;
+    }
+    .device_and_details {
+        padding-bottom: 20px !important;
+        padding-top: 20px !important;
+        margin: 0 !important;
+    }
+    .details_one h5 {
+        font-size: 14px;
+        font-weight: 700;
+    }
+    /* easily customoize part  */
+    .details_two p {
+        margin-bottom: 0;
+    }
+    .phone_3 {
+        margin: 8% 0 !important;
+    }
+    .details_two h5 {
+        font-size: 14px;
+        font-weight: 700;
+    }
+    /* testimonial part  */
+    .testimonials {
+        min-height:70vh;
+    }
+    .heading .col-md-12{
+        margin: 0!important;
+        padding-bottom: 10px !important;
+    }
+    .testimonials p {
+        font-size: 20px;
+        text-align: center;
+    }
+    .testimonials .heading h5 {
+        letter-spacing: 1px;
+    }
+    .client {
+        width: 100%;
+        margin-top: 40px;
+        justify-content: space-around;
+    }
+    .client_img {
+        width: 60px;
+    }
+    .client_des h2 {
+        font-size: 17px;
+    }
+    .client_des h5 {
+        font-size: 25px;
+    }
+
+    /* download btn  */
+    .text_part h1 {
+        text-align: center;
+    }
+    /* pricing part  */
+    .pricing_plans {
+        margin-bottom: 0 !important;
+        margin: 0 !important;
+    }
+    .pricing_table {
+        margin-bottom: 40px;
+    }
+    .text {
+        padding: 10px 0 !important;
+    }
+    .text h1 {
+        font-size: 25px;
+        margin: 0;
+    }
+    .amount h2 {
+        font-size: 60px;
+    }
+    .amount h2 sup {
+        font-size: 31px;
+    }
+    .amount h5 {
+        font-size: 16px;
+    }
+    .amount {
+        padding: 20px !important;
+    }
+    .description p {
+        font-size: 18px;
+        padding: 0 10px;
+    }
+    .order_button .btn-features{
+        margin: 0 !important;
+        margin: 0 70px !important;
+        font-size: 14px !important;
+        padding: 12px !important;
+    }
+    .order_button{
+        padding-bottom: 40px !important;
+    }
+    /* CONTACT PART  */
+    .contact_way {
+        margin-bottom: 20px !important;
+    }
+    .contact_way i {
+        font-size: 30px;
+    }
+    .contact_way h5 {
+        font-size: 16px;
+    }
+    .heading span {
+        margin: 20px 0;
+    }
+    form input[type="submit"]{
+        font-size: 14px;
+        padding: 13px 20px!important;
+    }
+
+}
+
