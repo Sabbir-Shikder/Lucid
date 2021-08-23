@@ -1,7 +1,15 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 body{
     font-family: 'Source Sans Pro', sans-serif;
@@ -44,6 +52,8 @@ header{
     background-color: #008ed6;
     width: 0;
     height: 3px;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .navbar-light .navbar-nav .nav-link:hover::before{
@@ -57,6 +67,8 @@ header{
     background-color: #008ed6;
     width: 0;
     height: 3px;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .navbar-light .navbar-nav .nav-link:hover::after{
@@ -69,7 +81,9 @@ header{
 /* header content starting */
 .banner-content{
     min-height: 80vh;
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     position: relative;
 }
 .banner-content h5{
@@ -120,9 +134,15 @@ border-radius: 5px;
 
 letter-spacing: 2px;
 
+-webkit-transition: .4s all ease-in-out;
+
+-o-transition: .4s all ease-in-out;
+
 transition: .4s all ease-in-out;
 
-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+
+        box-shadow: none !important;
 }
 .btn-download:hover{
     color: white;
@@ -142,10 +162,13 @@ box-shadow: none !important;
     border-radius: 5px;
     border: 3px solid rgb(134, 134, 134);
     letter-spacing: 2px;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
     margin-left: 30px;
     outline: 0;
-    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
 }
 .btn-features:hover{
     color: white;
@@ -202,6 +225,8 @@ box-shadow: none !important;
     width: 0;
     height: 100%;
     background-color: #008ed6;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .heading span::after{
@@ -212,6 +237,8 @@ box-shadow: none !important;
     width: 0%;
     height: 100%;
     background-color: #008ed6;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .features_section:hover .heading span::before{
@@ -234,10 +261,13 @@ box-shadow: none !important;
     color: #008ed6;
     margin: auto;
     margin-bottom: 25px;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .features_item .icon_box:hover{
-    box-shadow: 0px 20px 40px rgb(0 0 0 / 10%);
+    -webkit-box-shadow: 0px 20px 40px rgb(0 0 0 / 10%);
+            box-shadow: 0px 20px 40px rgb(0 0 0 / 10%);
     color: white;
     background-color:#008ed6; 
     border-color: #008ed6;
@@ -298,6 +328,8 @@ margin-top: 8%;
     width: 0;
     height: 100%;
     background-color: #008ed6;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .details_one span::after{
@@ -308,6 +340,8 @@ margin-top: 8%;
     width: 0%;
     height: 100%;
     background-color: #008ed6;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .device_and_details:hover .details_one span::before{
@@ -380,6 +414,8 @@ margin-top: 8%;
     width: 0;
     height: 100%;
     background-color: #008ed6;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .details_two span::after{
@@ -390,6 +426,8 @@ margin-top: 8%;
     width: 0;
     height: 100%;
     background-color: #008ed6;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .customize:hover .details_two span::before{
@@ -441,9 +479,15 @@ margin-top: 8%;
 .client{
 
     width: 61%;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
 }
 .client_img{
     width: 75px;
@@ -481,9 +525,15 @@ margin-top: 8%;
 .owl-dots {
     margin-top: 12%;
     padding-bottom: 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
 }
 
 /* theme getting part starting */
@@ -522,11 +572,15 @@ margin-top: 8%;
     font-size: 30px;
     font-weight: bold;
     text-transform: uppercase;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 
 }
 .amount{
     border-bottom: 1px solid rgb(210 206 206);
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .amount h2{
@@ -539,6 +593,8 @@ margin-top: 8%;
 }
 .amount h5{    
     color: #999999;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 .description{
@@ -614,7 +670,9 @@ margin-top: 8%;
     position:absolute;
     left: 50%;
     width: 50%;
-    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+            transform: translateX(-50%);
     top: 68%;
 }
 .form-control{
@@ -623,7 +681,8 @@ margin-top: 8%;
 }
 .form-control:focus{
     border-color: white;
-    box-shadow: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
 }
 form input{
     background-color: #15141a !important;
@@ -634,6 +693,26 @@ form input{
     padding: 12px !important;
     border: none !important;
     border: 1px solid rgb(182, 179, 179) !important;
+}
+form input::-webkit-input-placeholder{
+    color: #999999 !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+form input::-moz-placeholder{
+    color: #999999 !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+form input:-ms-input-placeholder{
+    color: #999999 !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+form input::-ms-input-placeholder{
+    color: #999999 !important;
+    font-size: 16px;
+    font-weight: 600;
 }
 form input::placeholder{
     color: #999999 !important;
@@ -646,6 +725,8 @@ form input[type="submit"]{
     background-color: #008ed6 !important;
     border: 2px solid #008ed6 !important;
     border-radius: 3px;
+    -webkit-transition: .4s all ease-in-out;
+    -o-transition: .4s all ease-in-out;
     transition: .4s all ease-in-out;
 }
 form input[type="submit"]:hover{
@@ -660,6 +741,26 @@ form textarea{
     caret-color: white;
     color: white;
     border: 1px solid rgb(182, 179, 179) !important;
+}
+form textarea::-webkit-input-placeholder{
+    color: #999999 !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+form textarea::-moz-placeholder{
+    color: #999999 !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+form textarea:-ms-input-placeholder{
+    color: #999999 !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+form textarea::-ms-input-placeholder{
+    color: #999999 !important;
+    font-size: 16px;
+    font-weight: 600;
 }
 form textarea::placeholder{
     color: #999999 !important;
@@ -677,15 +778,23 @@ footer{
 .footer_content{
 
     min-height: 18vh;
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     margin: auto;
 }
 .footer_content ul{
             
     list-style: none;   
+    display: -webkit-box;   
+    display: -ms-flexbox;   
     display: flex;
-    justify-content: center;   
-    align-items: center;   
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;   
+    -webkit-box-align: center;   
+        -ms-flex-align: center;   
+            align-items: center;   
     margin-bottom: 20px;
 }
 .footer_content ul li{
@@ -694,6 +803,8 @@ footer{
 .footer_content ul li i{
         
     font-size: 25px;
+    -webkit-transition: .2s all ease-in-out;
+    -o-transition: .2s all ease-in-out;
     transition: .2s all ease-in-out;
 }
 .footer_content ul li i:hover{
