@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
 @media (min-width: 1400px) and (max-width: 1899px){
     .banner-content h5 {
         margin-top: 0px !important;
@@ -475,7 +482,10 @@
         width: 70%;
     }
     .banner-content {
-        flex-direction: column-reverse;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+            -ms-flex-direction: column-reverse;
+                flex-direction: column-reverse;
         text-align: center;
         padding: 30px 0 20px;
     }
@@ -629,7 +639,9 @@
     .banner-content {
         min-height: 75vh;
         text-align: center;
-        align-items: unset;
+        -webkit-box-align: unset;
+            -ms-flex-align: unset;
+                align-items: unset;
     }
     .banner-content h5 {
         font-size: 14px;
@@ -696,7 +708,8 @@
     .client {
         width: 70%;
         margin-top: 40px;
-        justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
         margin: auto;
     }
     .client_des {
@@ -755,7 +768,8 @@
     .client {
         width: 52%;
         margin-top: 40px;
-        justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
     }
     .client_img {
         width: 60px;
@@ -863,7 +877,9 @@
     .banner-content {
         min-height: 71vh;
         text-align: center;
-        align-items: unset;
+        -webkit-box-align: unset;
+            -ms-flex-align: unset;
+                align-items: unset;
         padding-top: 10%;
     }
     .banner-content h5 {
@@ -958,7 +974,8 @@
     .client {
         width: 70%;
         margin-top: 40px;
-        justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
         margin: auto;
     }
     .client_img {
@@ -1175,7 +1192,8 @@
     .client {
         width: 100%;
         margin-top: 40px;
-        justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
     }
     .client_img {
         width: 60px;
@@ -1381,7 +1399,8 @@
     .client {
         width: 100%;
         margin-top: 40px;
-        justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
     }
     .client_img {
         width: 60px;
@@ -1456,4 +1475,3 @@
     }
 
 }
-
